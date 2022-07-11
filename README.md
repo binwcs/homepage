@@ -1,3 +1,3 @@
 
     
-##### binw app : binwspacerace.com
+##### binw app : https://binwcs.netlify.app/
